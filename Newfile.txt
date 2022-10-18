@@ -1,2 +1,3 @@
 Another block of codeCommit test
 new branch line
+gg
