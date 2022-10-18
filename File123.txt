@@ -1,0 +1,3 @@
+smth string
+
+add new feature
